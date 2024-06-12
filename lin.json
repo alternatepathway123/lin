@@ -1,1 +1,3 @@
-sheinlink://applink/pushtoweb2?data=%7B%22url%22%3A%22https%3A%2F%2Fapi-shein.shein.com%2Fugrowth%2Fgame%2Fmagic-draw%2Fhappyflips32%2Fshare%3Fchannel%3Dmore%26currency%3DUSD%26game_from%3Dpwa%26language%3Den%26localcountry%3Dus%26returnFrom%3Dmore%26shareCode%3DlDTTi1FsXBi%7Eu7z5PXnBeBkvsMpFFX37OEF1zyTpG1avyHFEebnyfwFLaHmZ2CFI%26site_uid%3Dandshus%26type%3Dimmersive%26url_from%3D0cvbxis2_1757057757614%22%2C%22activity_sign%22%3A%22game_fission_undefined%22%7D
+{
+  "deeplink": "sheinlink://applink/pushtoweb2?data=%7B%22url%22%3A%22https%3A%2F%2Fapi-shein.shein.com%2Fugrowth%2Fgame%2Fmagic-draw%2Fhappyflips32%2Fshare%3Fchannel%3Dmore%26currency%3DUSD%26game_from%3Dpwa%26language%3Den%26localcountry%3Dus%26returnFrom%3Dmore%26shareCode%3DlDTTi1FsXBi%7Eu7z5PXnBeBkvsMpFFX37OEF1zyTpG1avyHFEebnyfwFLaHmZ2CFI%26site_uid%3Dandshus%26type%3Dimmersive%26url_from%3D0cvbxis2_1757057757614%22%2C%22activity_sign%22%3A%22game_fission_undefined%22%7D"
+}
